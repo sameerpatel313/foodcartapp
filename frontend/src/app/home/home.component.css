@@ -5,12 +5,14 @@ ul {
     flex-wrap: wrap;
     list-style-type: none;
     padding: 0;
+    
+    
 }
 
 li a {
     height: 24.5rem;
     width: 20rem;
-    border: 1px solid blue;
+    border: 1px solid white;
     border-radius: 1rem;
     margin: 0.5rem;
     display: flex;
